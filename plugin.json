@@ -1,0 +1,20 @@
+{
+  "name": "legal-forge",
+  "version": "0.2.0",
+  "description": "Court document intelligence for Claude Code. Encode court rules as executable specifications, validate citations, manage exhibits, build court-ready bundles, and navigate probate, costs, and Chancery Division procedure.",
+  "author": "Stephen Purkiss <stephen@purkiss.com>",
+  "license": "MIT",
+  "skills": [
+    "skills/court-formatting",
+    "skills/citation-validator",
+    "skills/exhibit-manager",
+    "skills/bundle-rules",
+    "skills/probate-rules",
+    "skills/scco-costs",
+    "skills/part8-procedure",
+    "skills/chancery-guide"
+  ],
+  "agents": [
+    "agents/legal-reviewer.md"
+  ]
+}
